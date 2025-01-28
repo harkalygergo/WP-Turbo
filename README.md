@@ -2,6 +2,8 @@
 
 Multisite compatible plugin to make WordPress better, faster, safer. Universally. Feel free to use.
 
+It's free and open-source and always will be.
+
 ---
 
 ## Advantages
